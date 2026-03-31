@@ -47,3 +47,5 @@ python accuracy_yanilgisi.py
 ## Kullanılan Teknolojiler
 
 `Python` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zehranuracikgoz/makine-%C3%B6%C4%9Frenmesinde-accuracy-yan%C4%B1lg%C4%B1s%C4%B1-78f86b5c2c4a)
